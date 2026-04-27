@@ -30,5 +30,11 @@ The application allows users to manage movie records through a menu-driven inter
 3. Run the application
 4. Use the menu options
 
+## Status - Work in Progress
+This project is currently under development and will be improved with:
+- Additional features
+- Improved UI
+- Better error handling
+
 ## Author
 Temitope Ayilara
